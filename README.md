@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1>Hello React Front End</h1>
+  <h1>Hello React Back End</h1>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 # 📖 Hello React Front End <a name="about-project"></a>
 
-**Hello React Front End** is the front-end of a project, which is built using both back-end and front-end. The React front-end can be found <a href="https://github.com/AyomipoMajek/hello-rails-frontend" >here</a>.
+**Hello React Front End** is the back-end of a project, which is built using both back-end and front-end. The React front-end can be found <a href="https://github.com/AyomipoMajek/hello-rails-frontend" >here</a>.
 
 ## 🗝️ Key Features <a name="key-features"></a>
 
